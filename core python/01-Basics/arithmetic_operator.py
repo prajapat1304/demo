@@ -1,0 +1,14 @@
+a = 10
+b = 15
+c = a + b
+d = a - b
+e = a * b
+f = a / b
+g = a ** b
+h = a % b
+print("Addition =",c)
+print("Subtraction =",d)
+print("Multiplication =",e)
+print("division =",f)
+print("power =",g)
+print("remender =",h)
